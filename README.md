@@ -1,4 +1,6 @@
 ### Hi there 👋
+When everyone told me to stop, I kept running, faster, faster, faster...
+              I still running, I forgot how to stop.
 
 <!--
 **x-N0/x-n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
