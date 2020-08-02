@@ -4,11 +4,11 @@ When everyone told me to stop, I kept running, faster, faster, faster...
 
               I still running, I forgot how to stop.
               
-              RPM: 95>. 59/60 :S
+              RPM: <95. 59/60 :S
 About the last challenge is: The amount of figures inside means "-(fig_amount)", and with the amount of figures outside mean "+(fig_amount)".
 Working on some crud, gotta show off my skills so people can believe me, since a some people think I can't do what I do, so... Lets put on work!
 <!--
-**x-N0/x-n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**x-N0/x-n0** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
