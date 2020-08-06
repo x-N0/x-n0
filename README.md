@@ -14,12 +14,11 @@ The only way to prevail as human kind is the **Science**, never forget about it,
 
 My languages:
 <p class="langs">
-<img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/go/go_64x64.png"></img>&nbsp; 
-
-<img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_64x64.png"></img>&nbsp; 
-<img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python_64x64.png"></img>&nbsp; 
-<img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php_64x64.png"></img>&nbsp; 
-<img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript_64x64.png"></img>&nbsp; 
+<img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/go/go_64x64.png"></img>&nbsp;
+<img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_64x64.png"></img>&nbsp;
+<img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python_64x64.png"></img>&nbsp;
+<img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php_64x64.png"></img>&nbsp;
+<img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript_64x64.png"></img>&nbsp;
 <img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css_64x64.png"></img>
 </p>
 
