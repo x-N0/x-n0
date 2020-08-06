@@ -1,19 +1,23 @@
-When everyone told me to stop, I kept running, faster, faster, faster...
+<i>When everyone told me to stop, I kept running, faster, faster, faster...
 
 
-I still running, I forgot how to stop. 
+I still running, I forgot how to stop.</i>
+
 RPM: <95. 59/60 :S
               
 About the last challenge the solution depends on this abstract logical concept mixed with an intuitive pattern:
 You'll end with this rule:
-Inside=**-(abs(amount))**
-Outside=**+(abs(amount))**
+
+<p align="center">
+Inside=<b>-(abs(amount))</b>
+Outside=<b>+(abs(amount))</b>
+</p>
 
 'abs' means absolute.
 The only way to prevail as human kind is the **Science**, never forget about it, that's a fact.
 
 ### My languages:
-<p class="langs" style="align: center;">
+<p class="langs" align="center">
 <img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/go/go_64x64.png"></img>&nbsp;
 <img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_64x64.png"></img>&nbsp;
 <img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python_64x64.png"></img>&nbsp;
@@ -21,6 +25,7 @@ The only way to prevail as human kind is the **Science**, never forget about it,
 <img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript_64x64.png"></img>&nbsp;
 <img class="showkc lang" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css_64x64.png"></img>
 </p>
+
 
 ### GH Template fulfill:
 - 🔭 I’m currently working on a Jira-Like App using XP;
