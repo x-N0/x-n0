@@ -1,6 +1,6 @@
 <p align="center">
-<i>When everyone told me to stop, I kept running, faster, faster, faster
-I still running, I forgot how to stop.</i>
+<i>When everyone told me to stop, I kept running, faster, faster, faster...
+  <br>I still running, I forgot how to stop.</i>
 </p>
 
 RPM: <95. 59/60 :S
