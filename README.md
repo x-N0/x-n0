@@ -1,9 +1,10 @@
 <p align="center">
 <i>When everyone told me to stop, I kept running, faster, faster, faster...
   <br>I still running, I forgot how to stop.</i>
+  <br> <br> <br>RPM: >=95.
 </p>
 
-RPM: <95. 59/60 :S
+
               
 About the last challenge the solution depends on this abstract logical concept mixed with an intuitive pattern:
 You'll end with this rule:
